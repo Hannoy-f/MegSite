@@ -20,8 +20,8 @@ The "config.py" file should be set up correctly according to your software envir
 
 * config.py
  ``` 
-pdb_path=r"home/workspace/Master/MegSite/data/PDB/"
-tsv_path=r"home/workspace/Master/MegSite/data/tsv/"
+pdb_path=r"home/workspace/Master/data/PDB/"
+tsv_path=r"home/workspace/Master/data/tsv/"
 result_path=r"home/workspace/Master/MegSite/result/"
 model_path=r"home/workspace/Master/MegSite/model/"
 HHblits=r"home/workspace/Master/software/hhsuite/bin/hhblits"
