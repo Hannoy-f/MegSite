@@ -7,7 +7,7 @@ The first virtual environment is used to generate `ems_msa` feature files and re
 - HHblits software (https://github.com/soedinglab/hh-suite)
 - Uniclust30 database (https://uniclust.mmseqs.com/)
 - ESM2 (https://github.com/facebookresearch/esm)
-- python==3.10.10,torch==2.3.1,numpy==1.24.3pandas=2.0.3
+- python==3.10.10,torch==2.3.1,numpy==1.24.3,pandas=2.0.3
 
 The second virtual environment is used to generate `esm3` feature files and run the model for prediction:
 
