@@ -27,7 +27,10 @@ model_path=r"home/workspace/Master/MegSite/model/"
 HHblits=r"home/workspace/Master/software/hhsuite/bin/hhblits"
 HHBLITS_DB=r"home/workspace/Master/database/uniclust30_2018_08/uniclust30_2018_08"
  ```
+ # Model weight
 
+Model weights available free at https://huggingface.co/Haoynoct/MegSite/tree/main
+ 
  # Experimental Procedure
 - Step 1: Prepare a protein sequence file and save it as `example.fasta`. Then, prepare the corresponding PDB and TSV files and place them in the respective directories specified by `pdb_path` and `tsv_path`.
 - Step 2: Activate the first virtual environment and run the following code,The output files from this step will be saved in the directory specified by `result_path`.
